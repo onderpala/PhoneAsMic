@@ -1,0 +1,6 @@
+/venv
+/dist
+/build
+/PhoneAsMic.egg-info
+
+__pycache__
